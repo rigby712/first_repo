@@ -1,2 +1,3 @@
-"Hello I am [Andrew Sam] and this is a test commit for this repository"
-
+git add .
+git commit -m "[Hello I am [Andrew Sam] and this is a test commit for this repository]"
+git push
